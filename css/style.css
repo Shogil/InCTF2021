@@ -2014,6 +2014,11 @@ p {
     height: auto;
 }
 
+.img-fluid2 {
+    max-width: 130px;
+    height: 63px;
+}
+
 
 
 
@@ -2143,7 +2148,7 @@ p {
     height:80px;
     left:10px;
     text-align:center;
-    color:#2a2d48;
+    color:#e84545;
     -webkit-transition:color .3s ease-out;
     transition:color .3s ease-out;
 }
