@@ -1895,9 +1895,10 @@ p {
 15.0 *** FOOTER AREA START ***
 =============================*/
 #footer {
-    padding: 20px 0;
+    padding: 10px 0;
     background: #2a2d48;
 }
+
 
 .footer-txt h3 a {
     font-size: 55px;
@@ -2861,8 +2862,10 @@ h1, h2, h3, h4, h5, h6 {
     background: url("../images/amritapuri_vector.png") no-repeat scroll center 0;
     width: 100%;
     height: 266px;
+    max-width: 100%;
+    vertical-align: middle;
+    border-style:hidden;
 }
-
 
 
 
