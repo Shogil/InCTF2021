@@ -2027,6 +2027,10 @@ p {
     max-width: 130px;
     height: 63px;
 }
+.img-fluid3 {
+    max-width: auto;
+    height: auto;
+}
 
 /* ====Roadmap area start===== */
 
