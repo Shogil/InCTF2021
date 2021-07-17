@@ -2022,6 +2022,10 @@ p {
     max-width: 20%;
     height: auto;
 }
+.img-fluid0 {
+    max-width: 50%;
+    height: auto;
+}
 
 .img-fluid2 {
     max-width: 130px;
@@ -2031,6 +2035,7 @@ p {
     max-width: auto;
     height: auto;
 }
+
 
 /* ====Roadmap area start===== */
 
