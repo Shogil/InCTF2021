@@ -177,8 +177,3 @@
     jQuery("#bgndVideo").YTPlayer();
 }(jQuery));
 
-$(document).ready(function(){
-
-    'use strict';
-    new WOW().init();
-});
