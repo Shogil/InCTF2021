@@ -1660,6 +1660,14 @@ p {
     padding: 90px 0;
     position: relative;
 }
+ p {
+    font-size: 19px;
+    font-family: br;
+    color: rgb(59, 59, 59);
+    padding-right: 33px;
+    padding-bottom: 30px;
+    padding-top: 8px;
+}
 
 .register-pa {
     padding-top: 100px;
@@ -1688,7 +1696,7 @@ p {
 }
 
 .purchase-box h4 {
-    font-size: 32px;
+    font-size: 20px;
     font-family: bb;
     color: #e84545;
     padding-bottom: 29px;
