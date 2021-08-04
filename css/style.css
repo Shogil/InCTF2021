@@ -1660,9 +1660,9 @@ p {
     padding: 90px 0;
     position: relative;
 }
-.banner-txt p {
+.ptag {
     font-size: 19px;
-    color: #000000;
+    color: #333333;
     font-family: br;
     padding-right: 50px;
     padding-bottom: 44px;
