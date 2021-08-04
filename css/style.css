@@ -1660,13 +1660,12 @@ p {
     padding: 90px 0;
     position: relative;
 }
- p {
+.banner-txt p {
     font-size: 19px;
+    color: #000000;
     font-family: br;
-    color: rgb(59, 59, 59);
-    padding-right: 33px;
-    padding-bottom: 30px;
-    padding-top: 8px;
+    padding-right: 50px;
+    padding-bottom: 44px;
 }
 
 .register-pa {
