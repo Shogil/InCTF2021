@@ -3256,5 +3256,133 @@ body {
   .tweet > .actions > .fa-heart:hover {
     color: #B33;
   }
+/*===========================
+6.0 *** ORGANIZE AREA START ***
+=============================*/
+#co {
+    padding: 80px 0;
+    background: url(../images/jas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+#co:after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(45, 48, 75, 0.8);
+}
+
+#co_2 {
+    background: #222640;
+    padding: 40px 0;
+}
+
+.head-span {
+    color: #e84545;
+    font-family: bl;
+    font-size: 30px;
+}
+
+.co-text {
+    margin-bottom: 20px;
+}
+
+.co-text h3 {
+    color: white;
+    font-family: bb;
+    font-size: 37px;
+    padding-top: 8px;
+    padding-bottom: 18px;
+    line-height: 47px;
+    text-transform: uppercase;
+    position: relative;
+}
+
+
+.co-text h3 span {
+    color: #e84545;
+    font-size: 30px;
+}
+
+.co-text p {
+    color: #aaadd0;
+    font-family: br;
+    font-size: 19px;
+    padding: 9px 165px 40px;
+}
+
+.org-item {
+    text-align: center;
+    position: relative;
+}
+
+.org-item:after {
+    position: absolute;
+    content: '';
+    top: 50%;
+    right: 0;
+    height: 50px;
+    width: 1px;
+    background: #32396a;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.or-i-none:after {
+    display: none;
+}
+
+.org-item i {
+    font-size: 19px;
+    color: white;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    background: #646caf;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.org-item h3 {
+    font-size: 24px;
+    color: white;
+    font-family: bb;
+    padding-bottom: 13px;
+    padding-top: 22px;
+}
+
+.org-item p {
+    color: #aaadd0;
+    font-size: 19px;
+    font-family: br;
+}
+
+.co-text a {
+    padding: 18px 25px;
+    background: #e84545;
+    border-radius: 50px;
+    -webkit-box-shadow: 0px 4px 19px 0px #e84545;
+    box-shadow: 0px 4px 19px 0px #e84545;
+    font-size: 19px;
+    font-family: bb;
+    color: white;
+    text-transform: uppercase;
+    -webkit-transition: all linear .3s;
+    -o-transition: all linear .3s;
+    transition: all linear .3s;
+}
+
+.co-text a:hover {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
 
 
