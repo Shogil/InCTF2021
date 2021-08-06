@@ -3261,7 +3261,7 @@ body {
 =============================*/
 #co {
     padding: 80px 0;
-    background: url(../images/jas.jpg);
+    background-color: rgb(147, 144, 148);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3295,7 +3295,7 @@ body {
 }
 
 .co-text h3 {
-    color: white;
+    color:#222640;
     font-family: bb;
     font-size: 37px;
     padding-top: 8px;
@@ -3353,7 +3353,7 @@ body {
 
 .org-item h3 {
     font-size: 24px;
-    color: white;
+    color: ##222640;
     font-family: bb;
     padding-bottom: 13px;
     padding-top: 22px;
@@ -3390,7 +3390,7 @@ body {
 =============================*/
 #mo {
     padding: 80px 0;
-    background: url(../images/sam.jpg);
+    background: url(../images/purple_blue_swirl_4k_hd_abstract.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3496,7 +3496,7 @@ body {
 
 .mo-text a {
     padding: 18px 25px;
-    background: #e84545;
+    background: #070049;
     border-radius: 50px;
     -webkit-box-shadow: 0px 4px 19px 0px #e84545;
     box-shadow: 0px 4px 19px 0px #e84545;
