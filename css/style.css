@@ -2226,8 +2226,11 @@ p {
 }
 
 .news-content p{
-    font-size:16px;
-    line-height:24px;
+    font-size: 19px;
+    font-family: br;
+    color: #666;
+    padding-top: 8px;
+    line-height:20px;
     font-weight:300;
     letter-spacing:0.02em;
     margin-bottom:10px;
@@ -2239,7 +2242,7 @@ p {
 .news-content .read-more:focus{
     padding:10px 0;
     text-decoration:none;
-    font-size:16px;
+    font-size:18px;
     color:#e84545;
     line-height:24px;
 }
@@ -2267,7 +2270,7 @@ p {
 }
 
 .news-item:hover .news-content .read-more:after{
-    color:#fff;
+    color:rgb(255, 255, 255);
 }
 
 .news-content .news-media{
@@ -2305,7 +2308,7 @@ p {
     width:100%;
     top:0;
     left:0;
-    font-family:'Roboto', sans-serif;
+    font-family: br;
     font-size:32px;
     line-height:80px;
     text-align:center;
