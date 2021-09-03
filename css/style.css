@@ -458,7 +458,7 @@ p {
     padding-bottom: 44px;
 }
 
-.banner-txt a {
+.banner-txtk{
     padding: 21px 25px;
     background: #e84545;
     border-radius: 50px;
@@ -471,6 +471,13 @@ p {
     -o-transition: all linear .3s;
     transition: all linear .3s;
     text-transform: uppercase;
+}
+.about-tx{
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    font-family: br;
+    padding-bottom: 2px;
+    padding-right: 40px;
 }
 
 .banner-txt a:hover {
