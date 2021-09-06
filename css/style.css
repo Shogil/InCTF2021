@@ -3543,6 +3543,11 @@ body {
 /*===========================
 10.0 *** Card area ***
 =============================*/
-
+.newinte {
+    height: 65vh; 
+    overflow: auto;
+     border: 0; 
+     width: 100%;
+}
 
 
