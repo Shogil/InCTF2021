@@ -412,6 +412,10 @@ p {
 /*===========================
 2.0 *** BANNER AREA START ***
 =============================*/
+.my{
+    max-height: 100px;
+    height: 100%;
+    }
 #banner {
     padding: 180px 0 190px;
     background: url(../images/banner.jpg);
