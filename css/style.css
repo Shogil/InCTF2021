@@ -2072,8 +2072,8 @@ p {
     height: auto;
 }
 .img-fluid11 {
-    max-width:20%;
-    height: 20%;
+    max-width:auto;
+    height:auto;
 }
 .img-fluid55{
     border:2px solid #fff;
@@ -2082,6 +2082,17 @@ p {
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;
 }
+@keyframes jump {
+    0%   {transform: translate3d(0,0,0) scale3d(1,1,1);}
+    40%  {transform: translate3d(0,30%,0) scale3d(.7,1.5,1);}
+    100% {transform: translate3d(0,100%,0) scale3d(1.5,.7,1);}
+  }
+  .jump {
+    transform-origin: 50% 50%;
+    animation: jump .5s linear alternate infinite;
+  }
+  
+
 
 
 /* ====Roadmap area start===== */
