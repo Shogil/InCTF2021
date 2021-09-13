@@ -2071,6 +2071,10 @@ p {
     max-width: 100%;
     height: auto;
 }
+.img-fluid11 {
+    max-width:20%;
+    height: 20%;
+}
 .img-fluid55{
     border:2px solid #fff;
     box-shadow: 10px 10px 5px #ccc;
