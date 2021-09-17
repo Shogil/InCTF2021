@@ -303,6 +303,18 @@ p {
         top: 0;
     }
 }
+.buttonop{
+    padding: 21px 25px;
+    background: #e84545;
+    border-radius: 50px;
+    font-size: 19px;
+    font-family: bb;
+    color: white;
+    text-transform: uppercase;
+    -webkit-transition: all linear .3s;
+    -o-transition: all linear .3s;
+    transition: all linear .3s;
+}
 
 /*===========================
 1.0 *** HEADER AREA START ***
