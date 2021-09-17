@@ -2071,6 +2071,11 @@ p {
     height: auto;
     
 }
+.img-fluid70 {
+    max-width: 75%;
+    height: auto;
+    
+}
 .img-fluid633 {
     max-width: 130px;
     height: auto;
