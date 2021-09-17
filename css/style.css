@@ -1817,6 +1817,9 @@ p {
 .brand_2 {
     padding-top: 60px;
 }
+.brand_4 {
+    padding-bottom: 40px;
+}
 
 /*===========================
 14.0 *** BLOG AREA START ***
@@ -2075,7 +2078,7 @@ p {
     
 }
 .img-fluid70 {
-    max-width: 75%;
+    max-width: 85%;
     height: auto;
     
 }
