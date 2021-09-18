@@ -835,6 +835,7 @@ p {
     box-shadow: 0 5px 20px rgba(0, 0, 0, .1);
     margin-bottom: 30px;
     position: relative;
+    
 }
 .about-item2 {
     padding: 0px;
@@ -842,6 +843,7 @@ p {
     box-shadow: 0 5px 20px rgba(0, 0, 0, .1);
     margin-bottom: 30px;
     position: relative;
+    border: 1px;
 }
 
 .about-item h3 {
@@ -851,10 +853,10 @@ p {
     padding-bottom: 6px;
 }
 .about-item2 h3 {
-    font-size: 18px;
+    font-size: 17px;
     font-family: bb;
     color: #2a2d48;
-    padding-bottom: 6px;
+    padding-bottom: 0px;
 }
 
 .about-item p {
@@ -864,7 +866,7 @@ p {
 }
 .about-item2 p {
     font-size: 19px;
-    color: #666;
+    color: #fff;
     font-family: br;
 }
 
@@ -885,7 +887,7 @@ p {
     top: 0;
     right: 0px;
     font-size: 50px;
-    color: #d8d8d8;
+    color: #ffffff;
     font-family: bb;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -3627,9 +3629,9 @@ body {
     cursor: pointer;
     padding: 18px;
     width: 100%;
-    border: none;
+    
     text-align: left;
-    outline: none;
+    border:none;
     font-size: 15px;
     transition: 0.4s;
   }
@@ -3641,7 +3643,7 @@ body {
   .panel {
     padding: 0 18px;
     display: none;
-    background-color: white;
+    background-color: #2a2d48;
     overflow: hidden;
   }
 
