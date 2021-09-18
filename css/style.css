@@ -2096,6 +2096,10 @@ p {
     max-width: 20%;
     height: auto;
 }
+.img-fluid18 {
+    max-width: 10%;
+    height: auto;
+}
 .img-fluid0 {
     max-width: 50%;
     height: auto;
