@@ -1125,7 +1125,14 @@ p {
     text-align: center;
     position: relative;
 }
-
+.speaker-head h3 {
+    font-size: 60px;
+    font-family: bb;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+}
 .speaker-heading h3::after {
     position: absolute;
     content: '';
@@ -3679,3 +3686,6 @@ body {
   .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+
+
+ 
