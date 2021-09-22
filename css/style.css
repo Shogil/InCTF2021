@@ -1271,7 +1271,7 @@ p {
 }
 
 .speak-time span {
-    color: white;
+    color: #ffc107;
     font-family: bb;
 }
 
@@ -1285,7 +1285,7 @@ p {
 
 .speaker-txt p {
     font-size: 17px;
-    color: #666;
+    color: #dc3545;;
     padding-bottom: 15px;
 }
 
