@@ -1873,7 +1873,9 @@ p {
 .brand_4 {
     padding-bottom: 40px;
 }
-
+.brand_5 {
+    padding-bottom: 80px;
+}
 /*===========================
 14.0 *** BLOG AREA START ***
 =============================*/
@@ -3692,4 +3694,9 @@ body {
   }
 
 
- 
+  #example2 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: -18px -20px 0px #222640;
+}
+  
