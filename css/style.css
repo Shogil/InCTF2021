@@ -627,6 +627,11 @@ p {
     position: relative;
     background: #fafafa;
 }
+#about2 {
+    padding: 40px 0;
+    position: relative;
+    background: #fafafa;
+}
 
 .main-img {
     position: relative;
@@ -991,6 +996,16 @@ p {
     margin-bottom: 20px;
 }
 
+.organize-text1 h3 {
+    color: #ffc107;
+    font-family: bb;
+    font-size: 37px;
+    padding-top: 8px;
+    padding-bottom: 18px;
+    line-height: 47px;
+    text-transform: uppercase;
+    position: relative;
+}
 .organize-text h3 {
     color: white;
     font-family: bb;
