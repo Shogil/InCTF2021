@@ -2150,6 +2150,11 @@ p {
     max-width: 100%;
     height: auto;
 }
+.img-fluid86 {
+    max-width: 70%;
+    height: auto;
+    
+}
 .img-fluid63 {
     max-width: 75px;
     height: auto;
@@ -2160,13 +2165,8 @@ p {
     height: auto;
     
 }
-.img-fluid86 {
+.img-fluid71 {
     max-width: 50%;
-    height: auto;
-    
-}
-.img-fluid660 {
-    max-width: 35%;
     height: auto;
     
 }
