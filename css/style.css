@@ -2156,7 +2156,12 @@ p {
     
 }
 .img-fluid70 {
-    max-width: 100%;
+    max-width: 70%;
+    height: auto;
+    
+}
+.img-fluid660 {
+    max-width: 40%;
     height: auto;
     
 }
