@@ -3353,6 +3353,8 @@ body {
     padding: 12px;
     align-items: center;
     width: 18rem;
+    margin: .25rem;
+    flex: left;
   }
   
   .card.summary {
