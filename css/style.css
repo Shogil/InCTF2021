@@ -2152,6 +2152,11 @@ card-img-top {
     max-width: 20%;
     height: auto;
 }
+.img-fluid8350 {
+    max-width: 82%;
+    height: auto;
+    align-items: center;
+}
 .img-fluid18 {
     max-width: 10%;
     height: auto;
@@ -3346,6 +3351,8 @@ body {
     border: 1px solid #eee;
     border-radius: 4px;
     padding: 12px;
+    align-items: center;
+    
   }
   
   .card.summary {
