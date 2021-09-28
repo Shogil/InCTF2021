@@ -750,13 +750,26 @@ p {
 .about-txt h4 span {
     color: #e84545;
 }
-
+.card h5 {
+    font-size: 25px;
+    font-family: 'br';
+    font-weight: bold;
+    color: #16023a;
+}
 .about-txt p {
     font-size: 19px;
     color: #666;
     font-family: br;
     padding-bottom: 46px;
     padding-right: 40px;
+}
+.card p {
+    font-size: 15px;
+    font-weight: bold;
+    color: #666;
+    font-family: br;
+    padding-bottom: 30px;
+    padding-right: 30px;
 }
 
 .about-txt a {
@@ -1138,6 +1151,14 @@ p {
     color: #2a2d48;
     text-transform: uppercase;
     text-align: center;
+    position: relative;
+}
+.cardhead {
+    font-size: 50px;
+    font-family: bb;
+    color: #2a2d48;
+    text-transform: uppercase;
+    text-align: left;
     position: relative;
 }
 .speaker-head h3 {
@@ -2118,6 +2139,14 @@ p {
     box-shadow: none;
 }
 
+card-img-top {
+    max-width: 20%;
+    height: auto;
+
+    /* width: 100%; */
+    /* border-top-left-radius: calc(.25rem - 1px); */
+    /* border-top-right-radius: calc(.25rem - 1px); */
+}
 
 .img-fluid1 {
     max-width: 20%;
