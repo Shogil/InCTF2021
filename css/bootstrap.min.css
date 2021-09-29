@@ -4267,7 +4267,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
         border-bottom-left-radius: 0
     }
     .card-group>.card:only-child {
-        border-radius: .25rem
+        border-radius: 4.25rem
     }
     .card-group>.card:only-child .card-header, .card-group>.card:only-child .card-img-top {
         border-top-left-radius: .25rem;
