@@ -766,7 +766,7 @@ p {
 .card p {
     font-size: 15px;
     font-weight: bold;
-    color: rgb(255, 255, 255);
+    color: #222640;
     font-family: br;
     padding-bottom: 30px;
     padding-right: 30px;
@@ -3348,7 +3348,6 @@ body {
   }
   
   .card {
-    border: 1px solid #eee;
     border-radius: 4px;
     padding: 12px;
     align-items: center;
@@ -3762,4 +3761,6 @@ body {
     padding: 0px;
     box-shadow: -18px -20px 0px #222640;
 }
-  
+.clipped {
+    clip-path: circle();
+ }
