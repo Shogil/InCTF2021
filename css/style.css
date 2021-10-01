@@ -3689,9 +3689,9 @@ body {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     cursor: pointer;
-    padding: 13px;
+    padding: 1px;
     width: 100%;
-    
+    margin-left: 20px;
     text-align: left;
     border:none;
     font-size: 15px;
