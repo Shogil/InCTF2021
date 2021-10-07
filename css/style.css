@@ -2179,11 +2179,11 @@ card-img-top {
 }
 
 .img-fluid6 {
-    max-width: 100%;
+    max-width: 100px;
     height: auto;
 }
 .img-fluid86 {
-    max-width: 88%;
+    max-width: 120px;
     height: auto;
     
 }
@@ -2193,17 +2193,17 @@ card-img-top {
     
 }
 .img-fluid70 {
-    max-width: 50%;
+    max-width: 200px;
     height: auto;
     
 }
 .img-fluid72 {
-    max-width: 70%;
+    max-width: 250px;
     height: auto;
     
 }
 .img-fluid71 {
-    max-width: 52%;
+    max-width: 165px;
     height: auto;
     
 }
