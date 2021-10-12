@@ -2182,6 +2182,10 @@ card-img-top {
     max-width: 140px;
     height: auto;
 }
+.img-fluid69 {
+    max-width: 1000px;
+    height: auto;
+}
 .img-fluid86 {
     max-width: 150px;
     height: auto;
