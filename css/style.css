@@ -1036,6 +1036,16 @@ p {
     text-transform: uppercase;
     position: relative;
 }
+.organize-text2 h3 {
+    color: #2d2f47;
+    font-family: bb;
+    font-size: 37px;
+    padding-top: 8px;
+    padding-bottom: 18px;
+    line-height: 47px;
+    text-transform: uppercase;
+    position: relative;
+}
 .organize-text h3 {
     color: white;
     font-family: bb;
@@ -1071,7 +1081,12 @@ p {
     font-size: 19px;
     padding: 9px 165px 40px;
 }
-
+.organize-text2 p {
+    color: #696969;
+    font-family: br;
+    font-size: 19px;
+    padding: 9px 165px 40px;
+}
 .org-item {
     text-align: center;
     position: relative;
@@ -3826,7 +3841,7 @@ body {
   
   .class {
     width: 100%;
-    height: 27vh; /*90min*/
+    height: 20vh; /*90min*/
     line-height: 15vh;
     background-color: rgb(235, 18, 235);
     font-size: 2vw;
