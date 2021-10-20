@@ -731,8 +731,17 @@ p {
     transition: all linear .3s;
     z-index: 0;
 }
-
+.about-txt56 h6{
+    font-weight: bold;
+    font-family: br;
+    font-size: 20px;
+}
 .about-txt h3 {
+    font-size: 25px;
+    font-family: bl;
+    color: #e84545;
+}
+.about-txt56 h3 {
     font-size: 25px;
     font-family: bl;
     color: #e84545;
@@ -746,8 +755,19 @@ p {
     padding-bottom: 19px;
     line-height: 49px;
 }
+.about-txt56 h4 {
+    font-size: 37px;
+    font-family: bb;
+    color: #2a2d48;
+    padding-top: 17px;
+    padding-bottom: 19px;
+    line-height: 49px;
+}
 
 .about-txt h4 span {
+    color: #e84545;
+}
+.about-txt56 h4 span {
     color: #e84545;
 }
 .card h5 {
@@ -763,6 +783,13 @@ p {
     color: #e84545;
 }
 .about-txt p {
+    font-size: 19px;
+    color: #666;
+    font-family: br;
+    padding-bottom: 46px;
+    padding-right: 40px;
+}
+.about-txt56 p {
     font-size: 19px;
     color: #666;
     font-family: br;
@@ -795,6 +822,10 @@ p {
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
     transition: all linear .3s;
+}
+.about-txt56 a {
+    text-decoration: underline;
+    color: red;
 }
 
 .about-txt a:hover {
