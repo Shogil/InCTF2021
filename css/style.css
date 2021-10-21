@@ -2210,7 +2210,10 @@ card-img-top {
     /* border-top-left-radius: calc(.25rem - 1px); */
     /* border-top-right-radius: calc(.25rem - 1px); */
 }
-
+.img-fluidthlogo {
+    max-width: 38%;
+    height: auto;
+}
 .img-fluid1 {
     max-width: 20%;
     height: auto;
