@@ -1031,6 +1031,14 @@ p {
     background-attachment: fixed;
     position: relative;
 }
+#organize3 {
+    padding: 80px 0;
+    background: url(../images/coversponsor.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position:;
+}
 
 #organize:after {
     position: absolute;
